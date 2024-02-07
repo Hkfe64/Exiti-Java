@@ -12,7 +12,7 @@ JPA 2.2
 
 Postgresql 15.5
 
-### Entregar até a 1:1 de Fevereiro (26/02-01/03)
+### Entregar até a 1:1 de Fevereiro (04/03-07/03)
 
 Criar uma Agenda pessoal, em que o usuário possa salvar o contato de pessoas conhecidas. 
 Deve ser possível ver todos os contatos, criar um contato, alterar e excluir. 
